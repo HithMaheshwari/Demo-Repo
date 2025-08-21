@@ -3,5 +3,8 @@ public with sharing class DemoClass {
         // METHOD 1
         //Comment form main branch 
     }
+    public static void method2(){
+        
+    }
 
 }
