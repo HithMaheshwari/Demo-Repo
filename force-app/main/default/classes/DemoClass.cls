@@ -4,7 +4,7 @@ public with sharing class DemoClass {
         //Comment form main branch 
     }
     public static void method2(){
-        
+        String str= 'Hello'; 
     }
 
 }
